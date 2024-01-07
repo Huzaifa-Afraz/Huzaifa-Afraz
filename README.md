@@ -29,7 +29,7 @@ for the backend use the following technologies:
 - Node js, Express js
 - rest API
 - bcryptjs(for password hashing and to add salt)
-- JWT (javascript web token)
+- JWT (JSON web token)
 - PHP 
 
 #Database
