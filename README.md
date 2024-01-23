@@ -9,9 +9,9 @@
 
 - Currently pursuing a Computer Science degree at Abasyn University, Islamabad, I am dedicated to enhancing theoretical knowledge to complement practical experiences. Rooted in a passion for user-centric design, I aim to create digital experiences that leave a positive impression worldwide.
 
-# MY Experties
+# MY Expertise
 
-### Front-end Technologies:
+## Front-end Technologies:
 For front-end development, I utilize the following technologies:
 
 - jQuery
