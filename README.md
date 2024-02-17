@@ -2,7 +2,7 @@
 # Hi, I'm Huzaifa Afraz! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/huzaifa-afraz/)
-## 🚀 About me
+# 🚀 About me
 - As a seasoned full-stack web developer, I specialize in MERN stack development, particularly with Next.js. My experience includes collaboration with a USA-based design agency [UIDesigz](https://www.uidesignz.com/), contributing to innovative digital solutions.
 
 - In freelance roles on platforms like [Upwork](https://www.upwork.com/freelancers/~0193c51ca728116e54) and [Fiverr](https://www.fiverr.com/huzaifaafraz299), I deliver tailored web development services globally, catering to diverse client needs. Whether crafting user interfaces or implementing robust back-end systems, my focus is on delivering impactful solutions.
