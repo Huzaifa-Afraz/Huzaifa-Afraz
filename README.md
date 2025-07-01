@@ -1,47 +1,77 @@
+# Huzaifa Afraz  
+**MERN Stack Developer | Cloud Engineer | DevOps Enthusiast**  
+Islamabad, Pakistan  
+📧 huzaifaafraz90@gmail.com | 📞 +92 311 155 3572  
+[GitHub](https://github.com/huzaifa-afraz) | [LinkedIn](https://www.linkedin.com/in/huzaifa-afraz/) | [Upwork](https://www.upwork.com/freelancers/~0193c51ca728116e54) | [Fiverr](https://www.fiverr.com/huzaifaafraz299)
 
-# Hi, I'm Huzaifa Afraz! 👋
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/huzaifa-afraz/)
-# 🚀 About me
-- As a seasoned full-stack web developer, I specialize in MERN stack development, particularly with Next.js. My experience includes collaboration with a USA-based design agency [UIDesigz](https://www.uidesignz.com/), contributing to innovative digital solutions.
+## Professional Summary
 
-- In freelance roles on platforms like [Upwork](https://www.upwork.com/freelancers/~0193c51ca728116e54) and [Fiverr](https://www.fiverr.com/huzaifaafraz299), I deliver tailored web development services globally, catering to diverse client needs. Whether crafting user interfaces or implementing robust back-end systems, my focus is on delivering impactful solutions.
+I’m a full-stack web developer with deep experience in the MERN stack and cloud deployment. I specialize in building robust, scalable web applications using modern JavaScript frameworks like Next.js and Nest.js. Whether collaborating remotely with agencies or working onsite, I focus on clean architecture, performance optimization, and seamless deployment.
 
-- Currently pursuing a Computer Science degree at Abasyn University, Islamabad, I am dedicated to enhancing theoretical knowledge to complement practical experiences. Rooted in a passion for user-centric design, I aim to create digital experiences that leave a positive impression worldwide.
+With a strong foundation in both frontend and backend systems, I'm passionate about creating functional digital experiences that not only work — but stand out.
 
-# MY Expertise
+---
 
-## Front-end Technologies:
-For front-end development, I utilize the following technologies:
+## Experience
 
-- jQuery
-- Bootstrap
-- HTML, CSS, & JavaScript
-- AJAX
-- React.js
-- Next.js
-- TypeScript (built on top of JavaScript)
+**MERN Stack Developer & Team Lead**  
+*XPhyre Inc · Hybrid · Jan 2025 – Present*  
+- Leading the development of a custom CRM with scalable AWS-backed infrastructure  
+- Architected CI/CD pipelines using GitHub Actions  
+- Managing AWS resources (EC2, RDS, S3) for high availability and performance
 
-## Backend
-For backend development, I leverage the following technologies:
-- Node js, Express js
-- rest API
-- bcryptjs (for password hashing)
-- JWT (json web token)
-- PhP 
-- laravel
+**Contract MERN Stack Developer**  
+*Structures Limited · Onsite · Jul 2023 – Dec 2023*  
+- Led a team of 5 developers delivering enterprise-level web solutions  
+- Managed project architecture, performed code reviews, and ensured delivery under tight deadlines  
+- Successfully coordinated agile workflows across cross-functional teams
 
-## Database
-In database management, I work with the following systems:
+**Full Stack Developer**  
+*UIDesignz · Remote · Oct 2022 – Oct 2023*  
+- Developed and maintained the company's main site and client platforms  
+- Boosted performance (PageSpeed 30→90+) through lazy loading, code splitting, and caching  
+- Collaborated closely with designers and backend engineers to deliver clean API integrations
 
-- PostgreSQL
-- MongoDB
-- MySQL (SQL)
+---
 
+## Education
 
+**Bachelor of Science in Computer Science**  
+*Abasyn University, Islamabad*  
+Jan 2022 – Jan 2026 (Expected)
 
+---
 
+## Key Achievements
 
-# Testimonials
-> "Huzaifa, a talented full-stack developer, has been an invaluable member of our web development team. He worked on our website UIDesignz as a full-stack developer and also work on various projects. Huzaifa is a versatile and highly skilled developer. His ability to seamlessly transition between front-end and back-end development makes him an invaluable asset to any web development project. He consistently delivers websites that are both visually impressive and technically robust. Working with Huzaifa is always a pleasure"
-> — [Muhammad Mubeen ](https://www.linkedin.com/in/mubeen-web-designer-in-usa/),  CEO & Co-founder, [UIDesignz](https://www.uidesignz.com/)
+- **Performance Optimization**: Tripled site loading speed at UIDesignz through frontend enhancements  
+- **Leadership & Delivery**: Directed a 5-person team at Structures Ltd and consistently met contract goals  
+- **Cloud & DevOps**: Shipped a complete CRM system with automated deployments and cloud scaling at XPhyre
+
+---
+
+## Technical Skills
+
+**Frontend**  
+React.js, Next.js, TypeScript, JavaScript, jQuery, Bootstrap, HTML, CSS, AJAX
+
+**Backend**  
+Node.js, Express.js, Nest.js, PHP, Laravel, RESTful API, JWT, bcryptjs, OAuth
+
+**Databases**  
+MongoDB, PostgreSQL, MySQL
+
+**Cloud & DevOps**  
+AWS (EC2, S3, RDS), GitHub Actions, Docker, Nginx, CI/CD, Shell Scripting
+
+**Tools & Workflow**  
+Git, GitHub, Postman, Visual Studio Code, Agile Development, SEO Optimization, Caching
+
+---
+
+## Testimonials
+
+*"Huzaifa is a versatile and highly skilled full-stack developer. His ability to transition seamlessly between frontend and backend tasks makes him an invaluable part of any project. A pleasure to work with."*  
+— [Muhammad Mubeen](https://www.linkedin.com/in/mubeen-web-designer-in-usa/), CEO, [UIDesignz](https://www.uidesignz.com)
